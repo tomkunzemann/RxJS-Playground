@@ -1,0 +1,16 @@
+{
+  "name": "RxJS-Playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tomkunzemann/RxJS-Playground.git",
+  "author": "Tom Kunzemann <tom.kunzemann@invision.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "dependencies": {
+    "rxjs": "^6.2.2",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
+  }
+}
